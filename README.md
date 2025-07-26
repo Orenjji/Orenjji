@@ -1,7 +1,3 @@
-Sure! Here's your updated profile **tailored for a Quality Assurance Engineer**, while keeping the original layout, styling, and structure intact:
-
----
-
 ### <div align="center" style="color: #FFA500;">👋 Hi there, I’m Orenjji, a Quality Assurance Engineer passionate about delivering high-quality software 🧪</div>
 
 * 🌱 Currently honing my skills in software testing, test automation, and QA best practices.
