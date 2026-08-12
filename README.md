@@ -1,70 +1,97 @@
-### <div align="center" style="color: #FFA500;">👋 Hi there, I’m Orenjji, a Quality Assurance Engineer passionate about delivering high-quality software 🧪</div>
+# 👋 Hi there, I'm Orenjji!
 
-* 🌱 Currently honing my skills in software testing, test automation, and QA best practices.
-* ❓ Feel free to ask me anything about test planning, manual & automated testing, Python for QA, or quality tools!
-* ⚡ Fun fact: I love breaking things (so they can be made better) 🔍💥
+### 🧪 Quality Assurance Engineer
 
-<br/>  
+I'm a **Quality Assurance Engineer** passionate about software testing, test automation, and delivering high-quality software.
 
-## My Skill Set
+* 🔍 Experienced in **Manual Testing and Regression Testing**
+* 🤖 Experience building **Test Automation Frameworks**
+* 🎭 Completed a **Playwright + Java + Cucumber BDD** automation project
+* 🐍 Currently learning **Pytest** and **Playwright with Python**
+* 🚀 Learning and working with **CI/CD using GitHub Actions**
+* 🐧 Familiar with **Linux, particularly Ubuntu**
+* 🐳 Exploring **Docker** for testing and development environments
+* ⚡ Fun fact: I love breaking things so they can be made better!
 
-<table><tr><td valign="top" width="33%">
+---
 
-### Frontend
+## 🛠️ Skills & Technologies
 
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a> 
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>
-</div>
+### 🧪 QA & Test Automation
 
-</td><td valign="top" width="33%">
+* Manual Testing
+* Regression Testing
+* Functional Testing
+* Test Case Design
+* Test Execution
+* Bug Reporting
+* Test Automation
+* Selenium
+* Playwright
+* Cucumber / BDD
+* Pytest
+* Postman
+* Apache JMeter
 
-### Backend / QA Tools
+### 💻 Programming
 
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>    
-<a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/selenium.svg" alt="Selenium" height="75" /></a>  
-<a href="https://jmeter.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_jmeter.svg" alt="JMeter" height="75" /></a>  
-<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postman-icon.svg" alt="Postman" height="75" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
-</div>
+* Java
+* Python
+* JavaScript
+* HTML
+* CSS
+* SQL / MySQL
 
-</td><td valign="top" width="33%">
+### 🔧 Tools & Platforms
 
-### Test Management & Reporting
+* Git
+* GitHub
+* Jira
+* TestRail
+* GitHub Actions
+* Docker
+* Linux
+* Ubuntu
 
-<div align="center">  
-<a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jira.svg" alt="JIRA" height="75" /></a>  
-<a href="https://www.testrail.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/testrail.png" alt="TestRail" height="75" /></a>  
-<a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/selenium.svg" alt="Selenium" height="75" /></a>  
-<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postman-icon.svg" alt="Postman" height="75" /></a>  
-</div>
+---
 
-</td></tr></table>  
+## 🚀 Automation Projects
 
-<br/>  
+### 🎭 Playwright + Java + Cucumber BDD
 
-## Github Stats
+Completed a test automation project using:
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Orenjji&show_icons=true&count_private=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" style="border: 2px solid #FFA500;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orenjji&hide_border=true&layout=compact&bg_color=00000000" alt="Top Languages" style="border: 2px solid #FFA500;" />
-</div>  
+* Java
+* Playwright
+* Cucumber
+* BDD / Gherkin
+* TestNG
+* Maven
+* Git
 
-<br/> 
+The project focused on creating maintainable automated test scenarios using a **BDD approach** and reusable automation components.
 
-## Connect with me
+### 🌐 Selenium + Java + Cucumber
 
-<a href="https://github.com/Orenjji" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-</a>   
+Worked on a Selenium automation project using:
 
-<br/> 
-<br/> 
-<br/>
-<br/>
-<br/>
+* Java
+* Selenium WebDriver
+* Cucumber
+* TestNG
+* Maven
+* Excel test data
+* Extent Reports
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Orenjji&\&style=flat-square) <br/> <br />
+---
+
+## 📚 Currently Learning
+
+* 🐍 Pytest
+* 🎭 Playwright with Python
+* 🚀 CI/CD with GitHub Actions
+* 🐳 Docker
+* 🐧 Linux / Ubuntu
+* 🤖 Advanced Test Automation Practices
+
+---
