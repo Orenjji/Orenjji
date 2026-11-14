@@ -1,97 +1,66 @@
 # 👋 Hi there, I'm Orenjji!
 
-### 🧪 Quality Assurance Engineer
+### 🧪 QA Automation Engineer → DevOps
 
-I'm a **Quality Assurance Engineer** passionate about software testing, test automation, and delivering high-quality software.
+I'm a **Quality Assurance Engineer** who builds test automation and the pipelines that run it.
+I'm growing toward **DevOps**: reliable CI/CD, containers, and secure, reproducible environments.
 
-* 🔍 Experienced in **Manual Testing and Regression Testing**
-* 🤖 Experience building **Test Automation Frameworks**
-* 🎭 Completed a **Playwright + Java + Cucumber BDD** automation project
-* 🐍 Currently learning **Pytest** and **Playwright with Python**
-* 🚀 Learning and working with **CI/CD using GitHub Actions**
-* 🐧 Familiar with **Linux, particularly Ubuntu**
-* 🐳 Exploring **Docker** for testing and development environments
+* 🔍 Manual, functional and regression testing
+* 🎭 Playwright test automation in **Python (pytest)** and **Java (Cucumber BDD)**
+* 🚀 CI/CD with **GitHub Actions**: linting, testing, and publishing container images
+* 🐳 **Docker**: hardened, reproducible test images
+* 🐧 Daily development on **Linux (Ubuntu on WSL2)**
+* ☁️ Currently learning **AWS**
 * ⚡ Fun fact: I love breaking things so they can be made better!
+
+---
+
+## 🚀 Featured project: Playwright + pytest automation framework (Python)
+
+An end-to-end test framework for a real warehouse management web application, with a full CI/CD pipeline.
+
+**Test framework**
+* Page Object Model, reusable **flows**, and shared components
+* pytest **fixtures** that create their own test data and **clean it up** afterwards
+* Automatic **evidence capture** on failure: screenshots and Playwright **traces**
+* Waits on real application signals (no fixed sleeps); locators independent of user accounts and test data
+
+**CI/CD (GitHub Actions)**
+* Pipeline: **lint → test → publish**, with job timeouts and concurrency control
+* Tests run in **Docker**; the **exact image that passed** is published to **GitHub Container Registry**
+* **GitHub Environments** for per-environment secrets; **least-privilege** token permissions per job
+* Nightly scheduled runs, manual runs, and a pre-flight health check of the test environment
+
+**Quality & security**
+* **pre-commit** hooks shared locally and in CI: **Ruff**, **actionlint**, **hadolint**
+* Docker image pinned by **digest**, running as a **non-root** user
+* GitHub Actions pinned to **commit SHAs**; **Dependabot** keeps dependencies, actions and the base image current
+* Dependencies declared in `requirements.in` and locked with **pip-tools**
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### 🧪 QA & Test Automation
+**🧪 QA & Test Automation:** Manual, Regression & Functional Testing · Test Case Design · Bug Reporting ·
+Playwright · Selenium · Cucumber / BDD · pytest · TestNG · Postman · Apache JMeter
 
-* Manual Testing
-* Regression Testing
-* Functional Testing
-* Test Case Design
-* Test Execution
-* Bug Reporting
-* Test Automation
-* Selenium
-* Playwright
-* Cucumber / BDD
-* Pytest
-* Postman
-* Apache JMeter
+**⚙️ DevOps & CI/CD:** GitHub Actions · Docker · Docker Compose · GitHub Container Registry ·
+pre-commit · Dependabot · Linux / Ubuntu · WSL2 · Bash
 
-### 💻 Programming
+**💻 Programming:** Python · Java · JavaScript · SQL / MySQL · HTML · CSS
 
-* Java
-* Python
-* JavaScript
-* HTML
-* CSS
-* SQL / MySQL
-
-### 🔧 Tools & Platforms
-
-* Git
-* GitHub
-* Jira
-* TestRail
-* GitHub Actions
-* Docker
-* Linux
-* Ubuntu
+**🔧 Tools:** Git · GitHub · Jira · TestRail · Maven · Ruff · pip-tools
 
 ---
 
-## 🚀 Automation Projects
+## 🎭 Other automation projects
 
-### 🎭 Playwright + Java + Cucumber BDD
-
-Completed a test automation project using:
-
-* Java
-* Playwright
-* Cucumber
-* BDD / Gherkin
-* TestNG
-* Maven
-* Git
-
-The project focused on creating maintainable automated test scenarios using a **BDD approach** and reusable automation components.
-
-### 🌐 Selenium + Java + Cucumber
-
-Worked on a Selenium automation project using:
-
-* Java
-* Selenium WebDriver
-* Cucumber
-* TestNG
-* Maven
-* Excel test data
-* Extent Reports
+* **Playwright + Java + Cucumber BDD**: Java, Playwright, Cucumber, Gherkin, TestNG, Maven
+* **Selenium + Java + Cucumber**: Selenium WebDriver, Cucumber, TestNG, Maven, Excel test data, Extent Reports
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently learning
 
-* 🐍 Pytest
-* 🎭 Playwright with Python
-* 🚀 CI/CD with GitHub Actions
-* 🐳 Docker
-* 🐧 Linux / Ubuntu
-* 🤖 Advanced Test Automation Practices
-
----
+* ☁️ **AWS**: IAM, S3, ECR, running containers (ECS)
+* 🏗️ Next: **Terraform**, **Kubernetes**, monitoring, and DevSecOps scanning
